@@ -2,5 +2,6 @@ package de.hdm.testprojekt.shared;
 
 public class Testklasse {
 
-	//TEST
+	//Hier der neueste Kommentar
 }
+
