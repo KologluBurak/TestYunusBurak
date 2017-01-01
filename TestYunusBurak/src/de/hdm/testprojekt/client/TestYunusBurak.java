@@ -33,6 +33,8 @@ public class TestYunusBurak implements EntryPoint {
 	 */
 	private final GreetingServiceAsync greetingService = GWT.create(GreetingService.class);
 
+	
+	//Testcommit
 	/**
 	 * This is the entry point method.
 	 */
